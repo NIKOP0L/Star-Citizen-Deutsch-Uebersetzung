@@ -7,7 +7,7 @@ Dieser Part wird deshalb vorerst (noch) nicht editiert.
 
 Das Edit Betrifft 3-4k Zeilen, diese Betreffen:
 
--Alles ingame Lesbare: 
+- Alles ingame Lesbare: 
 Alle Einstellungen, Interaktionen, Inventar, Loot-Boxen, Schilder jeglicher Art, Lifte, Kiosks, ASOP, Schiff und Fahrzeug UIs und HUDs. 
 - Mobiglas erst Teilweise, da Indexe bisher noch fehlen 
 - Kleider und Rüstung auch erst Teilweise.
