@@ -38,6 +38,7 @@ SC_Deutsch.zip Datei in euren Star Citizen/Live Ordner auspacken: spielen.
 
 Deinstallation: 
 Star Citizen/Live/user.cfg löschen. (Stellt Spiel auf Deutsch um)
+
 Star Citizen/Live/Data/Localization Ordner löschen. (die Übersetzung)
 
 Die Übersetzungen sind offiziell von CIG unterstützt. 
