@@ -9,11 +9,13 @@ Dieser Part wird deshalb vorerst (noch) nicht editiert.
 Das Edit Betrifft 3-4k Zeilen, diese Betreffen:
 
 - Alles ingame Lesbare: 
-Alle Einstellungen, Interaktionen, Inventar, Loot-Boxen, Schilder jeglicher Art, Lifte, Kiosks, ASOP, Schiff und Fahrzeug UIs und HUDs. 
+Alle Menueinstellungen, Interaktionsmöglichkeiten, Inventar, Loot-Boxen, Schilder, Lifte, Kiosks, das Automatisierte Schiffs-Outfitting-Programm ASOP, 
+die Benutzeroberflächen (UI) und die Head-Up-Displays (HUD) von Schiffen und Fahrzeugen.
 - Mobiglas erst Teilweise, da Indexe bisher noch fehlen 
 - Kleider und Rüstung auch erst Teilweise.
 - Alle Orte und Schiff Module und Schiff Waffen wurden bewusst wieder zurück auf Englisch editiert.
 (So gibt es bei ingame Chat oder bei Englischen Tutorials keine Verständigungsprobleme)
+
 
 Diese Edit Version unterstützt (noch) nicht, oder erst Teilweise:
 
@@ -27,10 +29,9 @@ Da damit alles ingame lesbare auf Deutsch ist, könnt ihr trotzdem schon etwas i
 
 - Umlaut Problem:
 
-Da ingame, oft bei Interaktionen oder Schildern, nicht überall Umlaute angenommen werden, 
-habe ich diese wo es nötig war behelfsmässig mit: ae, oe, ue geändert. 
-Das lässt sich vorerst leider nicht anders lösen.
-
+Aufgrund technischer Einschränkungen im Spiel werden Umlaute nicht in allen Bereichen korrekt angezeigt. 
+Als Zwischenlösung wurden diese Umlaute dort, wo es notwendig war, durch alternative Schreibweisen wie "ae", "oe" und "ue" ersetzt. 
+Diese Anpassung bleibt so lange bestehen, bis eine optimale Lösung gefunden wird.
 
 ---------------
 Installation: 
