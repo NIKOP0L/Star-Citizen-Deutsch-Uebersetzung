@@ -59,7 +59,7 @@ werde ich voraussichtlich bis Ende Quartal 1 2024 hier reinstellen.
 
 Die aktuellen Versionen, weitere Edits und Fehler Fixes  werden immer hier abrufbar sein.
 
-Diese Repo kann direkt auf eure Seiten verlinkt und von allen frei genutzt werden.
+Diese Repo kann direkt auf eure Seiten verlinkt und von allen für nicht kommerzielle Zwecke genutzt werden.
 
 Wird sie von anderen Editoren als weitere Basis genutzt: Bitte mit Credits für: Alexander Nikopol in dem Readme. Danke
 
