@@ -62,7 +62,11 @@ Die aktuellen Versionen, weitere Edits und Fehler Fixes  werden immer hier abruf
 
 Diese Repo kann direkt auf eure Seiten verlinkt und von allen für nicht kommerzielle Zwecke genutzt werden.
 
-Wird sie von anderen Editoren als weitere Basis genutzt: Bitte mit Credits für: Alexander Nikopol in dem Readme. Danke
+Weiterer DL-Hos mit vielen nützlichen Infos, auf dieser Community Seite:
+https://hangarbase.de/
+
+
+Wird dieses Edit von anderen Editoren als weitere Basis genutzt: Bitte mit Credits für: Alexander Nikopol in dem Readme. Danke
 
 
 Mit Liebe, Alexander Nikopol o7
