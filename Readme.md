@@ -63,7 +63,7 @@ Die aktuellen Versionen, weitere Edits und Fehler Fixes  werden immer hier abruf
 Diese Repo kann direkt auf eure Seiten verlinkt und von allen für nicht kommerzielle Zwecke genutzt werden.
 
 
-Weiterer DL-Hos mit vielen nützlichen Infos, auf dieser Community Seite:
+Weiterer DL-Host mit vielen nützlichen Infos, auf dieser Community Seite:
 https://hangarbase.de/
 
 
