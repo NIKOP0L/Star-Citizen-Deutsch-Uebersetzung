@@ -1,9 +1,38 @@
-Aktuelle Version: SC-Deutsch V.1.01.3 
+Aktuelle Version: SC-Deutsch V.1.01.4 
 
-ab Star_Cititen PU Version: 3.20 nutzbar
+Ab und Vor Star_Cititen PU Version: 3.21.1 PTU und PU nutzbar
 
 
-Stand: 11. Nov: SC_Deutsch_V.1.01.3:
+-----------------------------------------------------
+
+
+Stand 14.Nov 2023: SC_Deutsch_V1.01.4:
+
+
+- Alle neuen Einträge aus PTU:3.21.1 eingetragen und editiert:
+
+Charakter Anpassung Menü
+Einstellungen Salvage
+Quests: Salvage
+Items: Banu Messer
+UI: Grosser Traktorstrahl
+Schiffe ASOP: Starliner C2, Pisces Rescue
+
+
+- Sonstiges:
+
+- weitere neue Anpassungen und Fehlerbereinigungen bei:
+
+Einstellungen
+HUD
+Chat
+UI Schiffe
+Inventar (ua: Fliegeranzug zu Raumanzug)
+Interaktionen (ua: Zurück zu Beenden, Ausrüsten zu Anziehen, Partei (Party) zu Gruppe)
+
+
+-------------------------------------------------------
+Stand: 11. Nov 2023: SC_Deutsch_V.1.01.3:
 
 Alles wie in der Basis Beschreibung, dazu Neu:
 
