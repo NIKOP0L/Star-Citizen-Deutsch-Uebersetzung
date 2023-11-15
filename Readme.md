@@ -74,4 +74,4 @@ Wird dieses Edit von anderen Editoren als weitere Basis genutzt: Bitte mit Credi
 ---------
 
 
-Mit Liebe, Alexander Nikopol o7
+Für das Verse: Alexander Nikopol o7
