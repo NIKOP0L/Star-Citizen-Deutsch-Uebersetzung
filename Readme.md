@@ -1,7 +1,7 @@
 Von Nikopol für die Community
 
 
-Die Basis dieses Edits wurde von AI-Übersetzung der Community genutzt. (SC Build: V.3.20)
+Die Basis dieses Edits wurde von AI-Übersetzung der Community genutzt. (SC Build: V.3.21.1)
 
 Diese ist bei den Dialogen, und den Quest Beschreibungen soweit brauchbar.
 Dieser Part wird deshalb vorerst (noch) nicht editiert.
