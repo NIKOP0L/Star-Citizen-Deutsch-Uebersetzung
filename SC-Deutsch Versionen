@@ -1,4 +1,4 @@
-Aktuelle Version: SC-Deutsch V.1.01.4m 
+Aktuelle Version: SC-Deutsch V.1.01.4.1 
 
 Kompatibel Ab und Vor: 
 Star_Citizen PU Version: 3.21.1 (PTU und kommendes PU)
@@ -6,13 +6,39 @@ Star_Citizen PU Version: 3.21.1 (PTU und kommendes PU)
 
 -----------------------------------------------------
 
+
+Stand 19.Nov 2023: SC_Deutsch_V1.01.4.1:
+
+
+- Alle neuen Indexe aus PTU:3.21.1 eingetragen und editiert:
+
+Charakter Anpassung Menü
+Einstellungen Salvage
+Quests: Salvage
+Items: Banu Messer
+UI: Grosser Traktorstrahl
+Schiffe ASOP und Mobiglas: Schiffs-Ausrüstungs-Manager: Gatac Syulen zugefügt.
+weitere Fehler in Interaktionen und Schiffen gefixt.
+
+- Sonstiges:
+
+Weitere neue Anpassungen und Fehlerbereinigungen bei:
+
+Einstellungen
+HUD
+UI Schiffe
+Interaktionen (ua: Ausrüsten zu Anziehen, Partei (Party) zu Gruppe)
+
+-----------------------------------
+
 Stand 16. Nov 2023: SC-Deutsch_V.01.4m (minifix)
+
 
 Stores und Inventar: Mützen zu Schuss bei den Magazinen Zusätzen geändert. 
 
 Danke Pseudonormal für den Hinweis. 
 
-
+----------------------------------
 
 Stand 14.Nov 2023: SC_Deutsch_V1.01.4:
 
@@ -40,7 +66,8 @@ Inventar (ua: Fliegeranzug zu Raumanzug)
 Interaktionen (ua: Ausrüsten zu Anziehen, Partei (Party) zu Gruppe)
 
 
--------------------------------------------------------
+----------------------------------
+
 Stand: 11. Nov 2023: SC_Deutsch_V.1.01.3:
 
 Alles wie in der Basis Beschreibung, dazu Neu:
