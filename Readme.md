@@ -1,18 +1,23 @@
 Von Nikopol für die Community
 
 
-Die Basis dieses Edits wurde von AI-Übersetzung der Community genutzt. (SC Build: V.3.21.1)
+Die Basis dieser deutschen Übersetzung wurde von der originalen AI-Übersetzung der Community genutzt. (SC Build: V.3.21.1)
+Ich habe sie ursprünglich für die Hangarbase.de, Fhexys Channel und seiner Crew 323 unabhängig erstellt.
 
 Diese ist bei den Dialogen, und den Quest Beschreibungen soweit brauchbar.
 Dieser Part wird deshalb vorerst (noch) nicht editiert.
 
-Das Edit Betrifft 3-4k Zeilen, diese Betreffen:
+Das Edit selber Betrifft +4k kontextbezogene, manuell editierte Zeilen. 
+Diese wurden ingame geprüft.
+
+
+Die Edits Betreffen:
 
 - Alles ingame Lesbare: 
 Alle Menueinstellungen, Interaktionsmöglichkeiten, Inventar, Loot-Boxen, Schilder, Lifte, Kiosks, das Automatisierte Schiffs-Outfitting-Programm ASOP, 
 die Benutzeroberflächen (UI) und die Head-Up-Displays (HUD) von Schiffen und Fahrzeugen.
-- Mobiglas erst Teilweise, da Indexe bisher noch fehlen 
-- Kleider und Rüstung auch erst Teilweise.
+- Mobiglas Teilweise, da Indexe bisher noch fehlen 
+- Kleider und Rüstung auch noch Teilweise.
 - Alle Orte und Schiff Module und Schiff Waffen wurden bewusst wieder zurück auf Englisch editiert.
 (So gibt es bei ingame Chat oder bei Englischen Tutorials keine Verständigungsprobleme)
 
@@ -60,18 +65,33 @@ werde ich voraussichtlich bis Ende Quartal 1 2024 hier reinstellen.
 
 Die aktuellen Versionen, weitere Edits und Fehler Fixes  werden immer hier abrufbar sein.
 
+
 Diese Repo kann direkt auf eure Seiten verlinkt und von allen für nicht kommerzielle Zwecke genutzt werden.
 
+Copyright:
+Neu steht die GitHub Repository dafür.
+Dort wird ab jetzt immer die aktuellste Version stehen. (Raw downloaden)
 
-Weiterer DL-Host mit vielen nützlichen Infos, auf dieser Community Seite:
+Ihr alle könnt so dieses immer aktuelle Edit in euren Seiten verlinken.
+Es steht für alle für nicht kommerzielle Nutzung zur Verfügung:
+
+https://github.com/NIKOP0L/Star-Citizen-Deutsch-Uebersetzung
+
+
+Einen weiteren DL-Host mit vielen genauen, und nützlichen deutschen Infos rund um Star Citizen findet ihr auf dieser Community Seite:
 https://hangarbase.de/
 
 
----------
+------------------
 
-Wird dieses Edit von anderen Editoren als weitere Basis genutzt: Bitte mit Credits für: Alexander Nikopol in dem Readme. Danke
+Copyright:
+Benutzung dieser +4k manuell erstellten und geprüften Edits durch andere Editoren ist erlaubt.
+Mein Edit darf jedoch nicht unter anderen Namen veröffentlicht werden, 
+wenn nicht vorher selber länger weiter daran gearbeitet wurde!
 
----------
+Bitte dann mit Credits für: Alexander Nikopol bei der Veröffentlichung. Danke
+
+----------------
 
 
 Für das Verse: Alexander Nikopol o7
