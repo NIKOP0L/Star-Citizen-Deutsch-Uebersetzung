@@ -1,7 +1,7 @@
 Von Nikopol für die Community
 
 
-Die Basis dieser deutschen Übersetzung wurde von der originalen AI-Übersetzung der Community genutzt. (SC Build: V.3.21.1)
+Die Basis dieser deutschen Übersetzung wurde von der originalen AI-Übersetzung der Community genutzt. (SC Build: V.3.22.0)
 Ich habe sie ursprünglich für die Hangarbase.de, Fhexys Channel und seiner Crew 323 unabhängig erstellt.
 
 Diese ist bei den Dialogen, und den Quest Beschreibungen soweit brauchbar.
