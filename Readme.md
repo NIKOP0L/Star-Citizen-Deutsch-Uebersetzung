@@ -86,8 +86,8 @@ https://hangarbase.de/
 
 Copyright:
 Benutzung dieser +4k manuell erstellten und geprüften Edits durch andere Editoren ist erlaubt.
-Mein Edit darf jedoch nicht unter anderen Namen veröffentlicht werden, 
-wenn nicht vorher selber länger weiter daran gearbeitet wurde!
+Mein Edit, oder Teile davon dürfen jedoch nicht unter anderen Namen veröffentlicht werden, 
+wenn nicht vorher länger autonom weiter daran gearbeitet wurde!
 
 Bitte dann mit Credits für: Alexander Nikopol bei der Veröffentlichung. Danke
 
